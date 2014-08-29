@@ -29,7 +29,6 @@
       <li>CakePHP</li>
       <li>CI</li>
     </ul>
-  <li>Node.js</li>
   <li>Git / SVN</li>
 </ul>
 
