@@ -26,6 +26,9 @@
       <li>Twitter Bootstrap</li>
     </ul>
   <li>CSS 3</li>
+  <ul>
+      <li>Less</li>
+    </ul>
   <li>Git / SVN</li>
 </ul>
 
