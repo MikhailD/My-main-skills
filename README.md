@@ -25,7 +25,7 @@
     <ul>
       <li>Twitter Bootstrap</li>
     </ul>
-  <li>CSS 3 (transition / animation)</li>
+  <li>CSS 3</li>
   <li>Git / SVN</li>
 </ul>
 
